@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It is frontend project to track starlink satellite trajectory.
 
 ## Available Scripts
 
